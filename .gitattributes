@@ -19,5 +19,5 @@
 *.fon binary
 
 # Files that need to be kept and not merged
-Marlin/Configuration.h merge=ours
-Marlin/Configuration_adv.h merge=ours
+//Marlin/Configuration.h merge=ours
+//Marlin/Configuration_adv.h merge=ours
